@@ -1,0 +1,155 @@
+Mark = 1000
+
+Joey = 1000
+
+Bannon = 1000
+
+Dimes = 1000
+
+Behler = 1000
+
+Thomas = 1000
+
+Oil1 = 50
+
+Oil2 = 30
+
+Oil3 = -100
+
+Oil4 = -10
+
+Oil5 = 30
+
+Oil6 = 50
+
+Tech1 = 50
+
+Tech2 = 30
+
+Tech3 = -100
+
+Tech4 = -10
+
+Tech5 = 30
+
+Tech6 = 50
+
+AGR1 = 50
+
+AGR2 = 30
+
+AGR3 = -100
+
+AGR4 = -10
+
+AGR5 = 30
+
+AGR6 = 50
+
+Med1 = 50
+
+Med2 = 30
+
+Med3 = -100
+
+Med4 = -10
+
+Med5 = 30
+
+Med6 = 50
+
+EnT1 = 50
+
+EnT2 = 30
+
+EnT3 = -100
+
+EnT4 = -10
+
+EnT5 = 30
+
+EnT6 = 50
+
+EDUC1 = 50
+
+EDUC2 = 30
+
+EDUC3 = -100
+
+EDUC4 = -10
+
+EDUC5 = 30
+
+EDUC6 = 50
+
+MarkOil = 0
+
+MarkTech = 0
+
+MarkAGR = 0
+
+MarkMed = 0
+
+MarkEnT = 0
+
+MarkEDUC = 0
+
+JoeyOil = 0
+
+JoeyTech = 0
+
+JoeyAGR = 0
+
+JoeyMed = 0
+
+JoeyEnT = 0
+
+JoeyEDUC = 0
+
+BannonOil = 0
+
+BannonTech = 0
+
+BannonAGR = 0
+
+BannonMed = 0
+
+BannonEnT = 0
+
+BannonEDUC = 0
+
+DimesOil = 0
+
+DimesTech = 0
+
+DimesAGR = 0
+
+DimesMed = 0
+
+DimesEnT = 0
+
+DimesEDUC = 0
+
+BehlerOil = 0
+
+BehlerTech = 0
+
+BehlerAGR = 0
+
+BehlerMed = 0
+
+BehlerEnT = 0
+
+BehlerEDUC = 0
+
+ThomasOil = 0
+
+ThomasTech = 0
+
+ThomasAGR = 0
+
+ThomasMed = 0
+
+ThomasEnT = 0
+
+ThomasEDUC = 0
