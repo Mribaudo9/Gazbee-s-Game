@@ -15,6 +15,9 @@ https://docs.google.com/spreadsheets/d/1kLeqkwq_BDvfMsXHB1tR6HeZIJgNAq80MsA3-d8j
 - Table Top Simulator
   + An online tool that allows you to play the game virtually! I have to add all my resources on to it.
  
+- The Board
+  +More art to make and more adjustments to the movement
+ 
 - Lots more I'm sure. I kinda just have so much going on here I forget what is needed to be added but I know you can play it and that's good enough for now.
 
 
