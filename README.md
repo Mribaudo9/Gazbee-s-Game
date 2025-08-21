@@ -11,5 +11,11 @@ https://docs.google.com/spreadsheets/d/1kLeqkwq_BDvfMsXHB1tR6HeZIJgNAq80MsA3-d8j
 
 - Interacting Industry Spurrs
   + ATM there are only direct Spurrs. Oil plays on Oil... In a coming update there will be a Negative AGR from Oil. Graphic Design is tiring.
+ 
+- Table Top Simulator
+  + An online tool that allows you to play the game virtually! I have to add all my resources on to it.
+ 
+- Lots more I'm sure. I kinda just have so much going on here I forget what is needed to be added but I know you can play it and that's good enough for now.
 
-- 
+
+Thank you for joining me here. I hope you enjoy what you see [:^)
