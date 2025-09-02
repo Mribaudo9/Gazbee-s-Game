@@ -1,3 +1,6 @@
+**Please reach out with questions, comments and any thoughts you may have (game related or not...)!
+Email: Mribaudo9@gmail.com**
+
 # Gazbee-s-Game
 An investment based Print n' Play board game
 
@@ -22,3 +25,5 @@ https://docs.google.com/spreadsheets/d/1kLeqkwq_BDvfMsXHB1tR6HeZIJgNAq80MsA3-d8j
 
 
 Thank you for joining me here. I hope you enjoy what you see [:^)
+
+
